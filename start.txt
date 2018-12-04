@@ -1,1 +1,2 @@
 empty text file
+new line
